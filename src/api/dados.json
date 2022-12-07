@@ -1,0 +1,36 @@
+{
+  "materias":[
+    {"nome":"Português", "topico":[
+      {"nome": "Acentuação Gráfica","subtopico":[
+        {"nome":"Uso dos Porquês", "exercicios":[
+          {"titulo":"Exercicío 1","descricao":"(SUPER ENSINO) Analise as afirmativas a seguir: I- Queria saber o pôr que dessa confusão. II- Queria saber porque você faltou a aula. III- Acordo cedo porque gosto de estudar.  Com relação ao uso dos porquês, estão corretas: ", "alternativa":[
+            {"titulo":"A", "descricao":"II e III.", "resposta": true},
+            {"titulo":"B", "descricao":"apenas a I.", "resposta": false},
+            {"titulo":"C", "descricao":"I, II, e III.", "resposta": false},
+            {"titulo":"D", "descricao":"apenas a III.", "resposta": false}
+            ]
+          }
+          ]
+        }
+        ]
+      }
+      ]
+    },
+    {"nome":"Português", "topico":[
+      {"nome": "Acentuação Gráfica","subtopico":[
+        {"nome":"Uso dos Porquês", "exercicios":[
+          {"titulo":"Exercicío 1","descricao":"(SUPER ENSINO) Analise as afirmativas a seguir: I- Queria saber o pôr que dessa confusão. II- Queria saber porque você faltou a aula. III- Acordo cedo porque gosto de estudar.  Com relação ao uso dos porquês, estão corretas: ", "alternativa":[
+            {"titulo":"A", "descricao":"II e III.", "resposta": true},
+            {"titulo":"B", "descricao":"apenas a I.", "resposta": false},
+            {"titulo":"C", "descricao":"I, II, e III.", "resposta": false},
+            {"titulo":"D", "descricao":"apenas a III.", "resposta": false}
+            ]
+          }
+          ]
+        }
+        ]
+      }
+      ]
+    }
+  ]
+  }
