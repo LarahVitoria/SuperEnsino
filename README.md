@@ -39,11 +39,11 @@ yarn install
 2º Inicie a Aplicação
 
 ```sh
-npm start
+npm rum dev
 ```
 ou
 ```sh
-yarn start
+yarn rum dev
 ```
 
 
