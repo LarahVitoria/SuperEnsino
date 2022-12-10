@@ -1,0 +1,242 @@
+[
+  {
+    "id":0,
+    "nameMatter":"Português",
+    "topic":[
+      {
+        "id":0,
+        "nameTopic":"Acentuação Gráfica",
+        "subtopic":[
+          {
+            "id":0,
+            "nameSubtopic":"Uso dos Porquês",
+            "exercises":[
+              {
+                "id":0,
+                "labelExercises":"Exercicío 1",
+                "answered":false,
+                "answerUser":"",
+                "descriptionExercises":"(SUPER ENSINO) Analise as afirmativas a seguir:    I- Queria saber o pôr que dessa confusão.  II- Queria saber porque você faltou a aula.  III- Acordo cedo porque gosto de estudar.   Com relação ao uso dos porquês, estão corretas: ",
+                "alternative":[
+                  {
+                    "nameAlternative":"A",
+                    "descriptionAlternative":"II e III.",
+                    "answer":true
+                  },
+                  {
+                    "nameAlternative":"B",
+                    "descriptionAlternative":"apenas a I.",
+                    "answer":false
+                  },
+                  {
+                    "nameAlternative":"C",
+                    "descriptionAlternative":"I, II, e III.",
+                    "answer":false
+                  },
+                  {
+                    "nameAlternative":"D",
+                    "descriptionAlternative":"apenas a III.",
+                    "answer":false
+                  }
+                ]
+              },
+              {
+                "id":1,
+                "labelExercises":"Exercicío 2",
+                "answered":false,
+                "answerUser":"",
+                "descriptionExercises":"(SUPER ENSINO) Analise as afirmativas a seguir:    I- Queria saber o pôr que dessa confusão.  II- Queria saber porque você faltou a aula.  III- Acordo cedo porque gosto de estudar.   Com relação ao uso dos porquês, estão corretas: ",
+                "alternative":[
+                  {
+                    "nameAlternative":"A",
+                    "descriptionAlternative":"II e III.",
+                    "answer":true
+                  },
+                  {
+                    "nameAlternative":"B",
+                    "descriptionAlternative":"apenas a I.",
+                    "answer":false
+                  },
+                  {
+                    "nameAlternative":"C",
+                    "descriptionAlternative":"I, II, e III.",
+                    "answer":false
+                  },
+                  {
+                    "nameAlternative":"D",
+                    "descriptionAlternative":"apenas a III.",
+                    "answer":false
+                  }
+                ]
+              },
+              {
+                "id":2,
+                "labelExercises":"Exercicío 3",
+                "answered":false,
+                "answerUser":"",
+                "descriptionExercises":"(SUPER ENSINO) Analise as afirmativas a seguir:    I- Queria saber o pôr que dessa confusão.  II- Queria saber porque você faltou a aula.  III- Acordo cedo porque gosto de estudar.   Com relação ao uso dos porquês, estão corretas: ",
+                "alternative":[
+                  {
+                    "nameAlternative":"A",
+                    "descriptionAlternative":"II e III.",
+                    "answer":true
+                  },
+                  {
+                    "nameAlternative":"B",
+                    "descriptionAlternative":"apenas a I.",
+                    "answer":false
+                  },
+                  {
+                    "nameAlternative":"C",
+                    "descriptionAlternative":"I, II, e III.",
+                    "answer":false
+                  },
+                  {
+                    "nameAlternative":"D",
+                    "descriptionAlternative":"apenas a III.",
+                    "answer":false
+                  }
+                ]
+              },
+              {
+                "id":3,
+                "labelExercises":"Exercicío 4",
+                "answered":false,
+                "answerUser":"",
+                "descriptionExercises":"(SUPER ENSINO) Analise as afirmativas a seguir:    I- Queria saber o pôr que dessa confusão.  II- Queria saber porque você faltou a aula.  III- Acordo cedo porque gosto de estudar.   Com relação ao uso dos porquês, estão corretas: ",
+                "alternative":[
+                  {
+                    "nameAlternative":"A",
+                    "descriptionAlternative":"II e III.",
+                    "answer":true
+                  },
+                  {
+                    "nameAlternative":"B",
+                    "descriptionAlternative":"apenas a I.",
+                    "answer":false
+                  },
+                  {
+                    "nameAlternative":"C",
+                    "descriptionAlternative":"I, II, e III.",
+                    "answer":false
+                  },
+                  {
+                    "nameAlternative":"D",
+                    "descriptionAlternative":"apenas a III.",
+                    "answer":false
+                  }
+                ]
+              },
+              {
+                "id":4,
+                "labelExercises":"Exercicío 5",
+                "answered":false,
+                "answerUser":"",
+                "descriptionExercises":"(SUPER ENSINO) Analise as afirmativas a seguir:    I- Queria saber o pôr que dessa confusão.  II- Queria saber porque você faltou a aula.  III- Acordo cedo porque gosto de estudar.   Com relação ao uso dos porquês, estão corretas: ",
+                "alternative":[
+                  {
+                    "nameAlternative":"A",
+                    "descriptionAlternative":"II e III.",
+                    "answer":true
+                  },
+                  {
+                    "nameAlternative":"B",
+                    "descriptionAlternative":"apenas a I.",
+                    "answer":false
+                  },
+                  {
+                    "nameAlternative":"C",
+                    "descriptionAlternative":"I, II, e III.",
+                    "answer":false
+                  },
+                  {
+                    "nameAlternative":"D",
+                    "descriptionAlternative":"apenas a III.",
+                    "answer":false
+                  }
+                ]
+              },
+              {
+                "id":5,
+                "labelExercises":"Exercicío 6",
+                "answered":false,
+                "answerUser":"",
+                "descriptionExercises":"(SUPER ENSINO) Analise as afirmativas a seguir:    I- Queria saber o pôr que dessa confusão.  II- Queria saber porque você faltou a aula.  III- Acordo cedo porque gosto de estudar.   Com relação ao uso dos porquês, estão corretas: ",
+                
+                "alternative":[
+                  {
+                    "nameAlternative":"A",
+                    "descriptionAlternative":"II e III.",
+                    "answer":true
+                  },
+                  {
+                    "nameAlternative":"B",
+                    "descriptionAlternative":"apenas a I.",
+                    "answer":false
+                  },
+                  {
+                    "nameAlternative":"C",
+                    "descriptionAlternative":"I, II, e III.",
+                    "answer":false
+                  },
+                  {
+                    "nameAlternative":"D",
+                    "descriptionAlternative":"apenas a III.",
+                    "answer":false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id":1,
+    "nameMatter":"Matemática",
+    "topic":[
+      {
+        "id":0,
+        "nameTopic":"Fração",
+        "subtopic":[
+          {
+            "id":0,
+            "nameSubtopic":"Divisão de frações",
+            "exercises":[
+              {
+                "id":0,
+                "labelExercises":"Exercicío 1",
+                "answered":false,
+                "answerUser":"",
+                "descriptionExercises":"(SUPER ENSINO) Analise as afirmativas a seguir:    I- Queria saber o pôr que dessa confusão.  II- Queria saber porque você faltou a aula.  III- Acordo cedo porque gosto de estudar.   Com relação ao uso dos porquês, estão corretas: ",
+                "alternative":[
+                  {
+                    "nameAlternative":"A",
+                    "descriptionAlternative":"II e III.",
+                    "answer":true
+                  },
+                  {
+                    "nameAlternative":"B",
+                    "descriptionAlternative":"apenas a I.",
+                    "answer":false
+                  },
+                  {
+                    "nameAlternative":"C",
+                    "descriptionAlternative":"I, II, e III.",
+                    "answer":false
+                  },
+                  {
+                    "nameAlternative":"D",
+                    "descriptionAlternative":"apenas a III.",
+                    "answer":false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

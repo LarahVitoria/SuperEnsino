@@ -1,0 +1,16 @@
+* {
+  font-family: 'Mulish', sans-serif;
+}
+
+.MuiAccordionSummary-expandIconWrapper {
+  background-color: #0ea5e9 !important;
+  border-radius: 20px;
+}
+
+.expand {
+  color: #fff;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
